@@ -1,0 +1,14 @@
+/* 清除浮动 */
+.clearfix::after {
+  content   : '';
+  display   : block;
+  clear     : both;
+  /* 兼容性 */
+  height    : 0;
+  visibility: hidden;
+}
+
+a {
+  text-decoration: none;
+  color          : inherit;
+}
