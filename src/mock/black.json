@@ -4,13 +4,13 @@
     "children": [
       {
         "name": "超级云短信",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "在线接收中国、香港、美国、日本、澳大利亚、加拿大等128个国家短信验证码",
         "url": "https://www.supercloudsms.com/zh/"
       },
       {
         "name": "手机短信验证码",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "免费在线接收短信",
         "url": "https://yunduanxin.net/"
       }
@@ -21,13 +21,13 @@
     "children": [
       {
         "name": "TEMPEMAIL",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "（不限时）Temp Mail提供临时、安全、匿名、免费的一次性电子邮件地址",
         "url": "https://temp-mail.org/zh/"
       },
       {
         "name": "10分钟邮箱",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "（可无限延续10分钟）10分钟邮箱",
         "url": "https://10minutemail.net/"
       }
@@ -38,37 +38,37 @@
     "children": [
       {
         "name": "mojie",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "130G -- ￥12.00（0.09元/G）",
         "url": "https://www.mojie.me/#/plan"
       },
       {
         "name": "祢豆子",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "180GB -- ￥25.00（0.14元/G）",
         "url": "https://xn--i8sr31es4m.com/user/shop"
       },
       {
         "name": "paoche",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "100G -- ￥18.80（0.19元/G）",
         "url": "https://paoche.ga/#/plan"
       },
       {
         "name": "teacat",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "100G -- ￥19.00（0.19元/G）",
         "url": "https://teacat.cloud/#/plan"
       },
       {
         "name": "hxlm",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "130G -- ￥28.00（0.22元/G）",
         "url": "https://hxlm.org/#/plan"
       },
       {
         "name": "bityun",
-        "logo": "",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "200G -- ￥80.00（0.4元/G）",
         "url": "https://subscribe.bityun.org/#/plan"
       }
@@ -79,7 +79,7 @@
     "children": [
       {
         "name": "BULINK",
-        "logo": "https://bulink.xyz/static/img/logo/logo.ico",
+        "logo": "https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/PicX/world.svg",
         "description": "永久免费网络加速服务，免费资源请勿用于非法用途",
         "url": "https://bulink.xyz/"
       }

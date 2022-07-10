@@ -6,9 +6,7 @@
       </router-link>
     </div>
     <div class="middle">
-      <router-link to="/home">首页</router-link>
-      <router-link to="/manual">工具手册</router-link>
-      <router-link to="/material">资源素材</router-link>
+      <router-link to="/material">资源库</router-link>
       <router-link to="/black">黑科技</router-link>
     </div>
     <div class="right"></div>
@@ -17,7 +15,7 @@
 
 <script>
 export default {
-  name: 'FanNavHeader',
+  name: 'FanNavHeader'
 }
 </script>
 

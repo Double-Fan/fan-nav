@@ -14,7 +14,6 @@ export default {}
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 #app {
-  background-color: #e9ecef;
   font-family: 'Ubuntu', sans-serif;
 }
 </style>
