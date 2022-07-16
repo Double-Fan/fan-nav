@@ -42,8 +42,7 @@ export default {
     margin-top: 124px;
     margin-bottom: 26px;
     border-radius: 10px;
-    background: url('https://cdn.staticaly.com/gh/Double-Fan/image-hosting@main/collection/fox.png')
-      no-repeat scroll center / contain;
+    background: url('https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/picture/fox.png') no-repeat scroll center / contain;
   }
 
   .btn-group {

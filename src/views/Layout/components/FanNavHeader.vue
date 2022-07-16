@@ -6,7 +6,7 @@
       </router-link>
     </div>
     <div class="middle">
-      <router-link to="/material">资源库</router-link>
+      <router-link to="/material">宝藏资源</router-link>
       <router-link to="/black">黑科技</router-link>
     </div>
     <div class="right"></div>
