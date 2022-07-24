@@ -118,7 +118,7 @@
     ]
   },
   {
-    "title": "Vue2",
+    "title": "Vue2 核心",
     "children": [
       {
         "name": "Vue 2.x",
@@ -126,7 +126,6 @@
         "description": "渐进式 JavaScript 框架",
         "url": "https://cn.vuejs.org/v2/guide"
       },
-
       {
         "name": "Vue Router 3.x",
         "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/Vue.svg",
@@ -142,7 +141,7 @@
       {
         "name": "Vue CLI",
         "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/Vue.svg",
-        "description": "Vue.js 开发的标准工具（Vue 2.x 推荐安装 Vue CLI 4.x 版本）",
+        "description": "Vue.js 开发的标准工具",
         "url": "https://cli.vuejs.org/zh/guide"
       },
       {
@@ -154,15 +153,14 @@
     ]
   },
   {
-    "title": "Vue3",
+    "title": "Vue3 核心",
     "children": [
       {
         "name": "Vue 3.x",
         "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/Vue.svg",
         "description": "渐进式 JavaScript 框架",
-        "url": "https://staging-cn.vuejs.org/guide/introduction.html/logo.svg"
+        "url": "https://staging-cn.vuejs.org/guide/introduction.html"
       },
-
       {
         "name": "Vue Router 4.x",
         "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/Vue.svg",
@@ -170,10 +168,22 @@
         "url": "https://router.vuejs.org/zh/introduction.html"
       },
       {
+        "name": "Vuex 4.x",
+        "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/Vue.svg",
+        "description": "Vue.js 集中式存储管理应用的所有组件的状态",
+        "url": "https://vuex.vuejs.org/zh"
+      },
+      {
         "name": "Pinia",
         "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/Pinia.svg",
         "description": "Vue.js 新一代的状态管理插件",
         "url": "https://pinia.web3doc.top/introduction.html"
+      },
+      {
+        "name": "Vue CLI",
+        "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/Vue.svg",
+        "description": "Vue.js 开发的标准工具",
+        "url": "https://cli.vuejs.org/zh/guide"
       },
       {
         "name": "Vite",
@@ -259,7 +269,7 @@
       {
         "name": "webpack",
         "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/webpack.ico",
-        "description": "webpack 是一个用于现代 JavaScript 应用程序的 静态模块打包工具。",
+        "description": "webpack 是一个用于现代 JavaScript 应用程序的 静态模块打包工具",
         "url": "https://webpack.docschina.org/concepts"
       }
     ]

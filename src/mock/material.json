@@ -94,6 +94,12 @@
         "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/MyFreeMP3.ico",
         "description": "MyFreeMP3",
         "url": "http://tools.liumingye.cn/music"
+      },
+      {
+        "name": "百乐米",
+        "logo": "https://cdn.jsdelivr.net/gh/Double-Fan/image-hosting/logo/bailemi.ico",
+        "description": "MyFreeMP3",
+        "url": "https://bailemi.com"
       }
     ]
   },
